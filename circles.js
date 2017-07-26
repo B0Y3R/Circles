@@ -1,0 +1,1 @@
+alert("Press any letter key on your key board to start making music!")
